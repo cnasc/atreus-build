@@ -2,14 +2,14 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org436dc13">1. My Atreus Build</a>
+<li><a href="#org46a4319">1. My Atreus Build</a>
 <ul>
-<li><a href="#orgcd78219">1.1. Goals</a></li>
-<li><a href="#org3f44e27">1.2. The Build</a>
+<li><a href="#org4d46ba5">1.1. Goals</a></li>
+<li><a href="#org83d4107">1.2. The Build</a>
 <ul>
-<li><a href="#orgd15725a">1.2.1. Finishing the Wood</a></li>
-<li><a href="#org4c4364c">1.2.2. Soldering the Diodes, Microcontroller, and Switches</a></li>
-<li><a href="#orgd27afa7">1.2.3. Putting It All Together</a></li>
+<li><a href="#orgfbb7a2d">1.2.1. Finishing the Wood</a></li>
+<li><a href="#org24b684c">1.2.2. Soldering the Diodes, Microcontroller, and Switches</a></li>
+<li><a href="#org7e524df">1.2.3. Putting It All Together</a></li>
 </ul>
 </li>
 </ul>
@@ -18,12 +18,12 @@
 </div>
 </div>
 
-<a id="org436dc13"></a>
+<a id="org46a4319"></a>
 
 # My Atreus Build
 
 
-<a id="orgcd78219"></a>
+<a id="org4d46ba5"></a>
 
 ## Goals
 
@@ -41,12 +41,12 @@
         able to eliminate them.
 
 
-<a id="org3f44e27"></a>
+<a id="org83d4107"></a>
 
 ## The Build
 
 
-<a id="orgd15725a"></a>
+<a id="orgfbb7a2d"></a>
 
 ### Finishing the Wood
 
@@ -70,7 +70,7 @@ finish, but either:
 -   Spray lacquer
 
 
-<a id="org4c4364c"></a>
+<a id="org24b684c"></a>
 
 ### Soldering the Diodes, Microcontroller, and Switches
 
@@ -88,7 +88,7 @@ me to the Atreus, since my previous keyboard was a Matias Mini Tactile
 Pro.
 
 
-<a id="orgd27afa7"></a>
+<a id="org7e524df"></a>
 
 ### Putting It All Together
 
@@ -123,5 +123,5 @@ My two major diversions here were keycaps and edge-binding.
 
 3.  Fin
 
-    [My completed keyboard](./img/IMG_0410-1.JPG)
+    ![img](./img/IMG_0410-1.JPG)
 
