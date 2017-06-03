@@ -2,28 +2,29 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org46a4319">1. My Atreus Build</a>
+<li><a href="#orgecee8f7">1. My Atreus Build</a>
 <ul>
-<li><a href="#org4d46ba5">1.1. Goals</a></li>
-<li><a href="#org83d4107">1.2. The Build</a>
+<li><a href="#org9e09eee">1.1. Goals</a></li>
+<li><a href="#org5d81e14">1.2. The Build</a>
 <ul>
-<li><a href="#orgfbb7a2d">1.2.1. Finishing the Wood</a></li>
-<li><a href="#org24b684c">1.2.2. Soldering the Diodes, Microcontroller, and Switches</a></li>
-<li><a href="#org7e524df">1.2.3. Putting It All Together</a></li>
+<li><a href="#org7e1e4cf">1.2.1. Finishing the Wood</a></li>
+<li><a href="#orgd19d87f">1.2.2. Soldering the Diodes, Microcontroller, and Switches</a></li>
+<li><a href="#org40b41f2">1.2.3. Putting It All Together</a></li>
 </ul>
 </li>
+<li><a href="#orgcfcc3bd">1.3. Fin</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<a id="org46a4319"></a>
+<a id="orgecee8f7"></a>
 
 # My Atreus Build
 
 
-<a id="org4d46ba5"></a>
+<a id="org9e09eee"></a>
 
 ## Goals
 
@@ -41,18 +42,18 @@
         able to eliminate them.
 
 
-<a id="org83d4107"></a>
+<a id="org5d81e14"></a>
 
 ## The Build
 
 
-<a id="orgfbb7a2d"></a>
+<a id="org7e1e4cf"></a>
 
 ### Finishing the Wood
 
 I like a satiny finish on wood, so I disregarded the instructions
 recommendation of lacquer and decided to wax the wood parts. This is,
-in the woodworking community, regarded as a Bad Decision because wax
+in the woodworking community, regarded as a *Bad Decision* because wax
 is a finish that has a lot of tradeoffs. In particular, it isn't very
 durable. However, I am not overly concerned with durability of the
 finish. Unlike a kitchen table or other surface, I won't touch the
@@ -70,7 +71,7 @@ finish, but either:
 -   Spray lacquer
 
 
-<a id="org24b684c"></a>
+<a id="orgd19d87f"></a>
 
 ### Soldering the Diodes, Microcontroller, and Switches
 
@@ -88,7 +89,7 @@ me to the Atreus, since my previous keyboard was a Matias Mini Tactile
 Pro.
 
 
-<a id="org7e524df"></a>
+<a id="org40b41f2"></a>
 
 ### Putting It All Together
 
@@ -121,7 +122,24 @@ My two major diversions here were keycaps and edge-binding.
     and used the blank caps on the bottom row, for which it would be hard
     to find labeled analogs.
 
-3.  Fin
 
-    ![img](./img/IMG_0410-1.JPG)
+<a id="orgcfcc3bd"></a>
+
+## Fin
+
+![img](./img/IMG_0410-1.JPG)
+
+Pretty cool, huh? I also added a coily USB cable as the finishing
+touch. I tested to make sure that the act of stretching the coil
+wouldn't pull the cable out of the socket, and it seems good so
+far. Let's hope it doesn't pull out, because then I'll have to rip off
+all my tape to get back inside and reattach it.
+
+As far as typing goes, it was a relatively quick adjustment for
+me. Now, after about 2 weeks using it daily at work and at home, I
+prefer it over any other keyboard. There are just a lot of little
+handy things about it. Overall I'm glad I built it. It was a very fun
+project and I can't recommend it highly enough.
+
+*This post written in Emacs on my Atreus, June 3, 2017*
 

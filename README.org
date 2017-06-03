@@ -19,7 +19,7 @@
 *** Finishing the Wood
 I like a satiny finish on wood, so I disregarded the instructions
 recommendation of lacquer and decided to wax the wood parts. This is,
-in the woodworking community, regarded as a Bad Decision because wax
+in the woodworking community, regarded as a /Bad Decision/ because wax
 is a finish that has a lot of tradeoffs. In particular, it isn't very
 durable. However, I am not overly concerned with durability of the
 finish. Unlike a kitchen table or other surface, I won't touch the
@@ -77,5 +77,19 @@ those. So I got enough keycaps to cover the top 3 rows of the board
 and used the blank caps on the bottom row, for which it would be hard
 to find labeled analogs.
 
-**** Fin
+** Fin
 [[./img/IMG_0410-1.JPG]]
+
+Pretty cool, huh? I also added a coily USB cable as the finishing
+touch. I tested to make sure that the act of stretching the coil
+wouldn't pull the cable out of the socket, and it seems good so
+far. Let's hope it doesn't pull out, because then I'll have to rip off
+all my tape to get back inside and reattach it.
+
+As far as typing goes, it was a relatively quick adjustment for
+me. Now, after about 2 weeks using it daily at work and at home, I
+prefer it over any other keyboard. There are just a lot of little
+handy things about it. Overall I'm glad I built it. It was a very fun
+project and I can't recommend it highly enough.
+
+/This post written in Emacs on my Atreus, June 3, 2017/
