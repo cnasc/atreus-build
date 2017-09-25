@@ -61,6 +61,16 @@ him to cut me a length with width of a 1/2 inch. It went on nicely and
 holds well so far. I didn't do any special preparation to the edges,
 so I was a bit concerned about how well it would stick.
 
+/Update, September 25, 2017/: The binding has come off. It started
+peeling off the top right corner a while ago, but always stuck back
+on. However, this morning at work the flap just wouldn't stay put. I
+peeled it off. It was actually stuck on quite well to most of the
+keyboard, so this seems to have been a surface prep issue. My guess is
+there's some wax on that edge.
+
+I may use this binding tape again on a future build with no wax
+(currently in progress). Stay tuned for those results.
+
 **** Keycaps
 It's hard to find interesting ALPS keycaps. All the neat sets you see
 are only available for Cherry switches. The Atreus kit comes with

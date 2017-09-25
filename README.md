@@ -2,31 +2,26 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgecee8f7">1. My Atreus Build</a>
+<li><a href="#sec-1">1. My Atreus Build</a>
 <ul>
-<li><a href="#org9e09eee">1.1. Goals</a></li>
-<li><a href="#org5d81e14">1.2. The Build</a>
+<li><a href="#sec-1-1">1.1. Goals</a></li>
+<li><a href="#sec-1-2">1.2. The Build</a>
 <ul>
-<li><a href="#org7e1e4cf">1.2.1. Finishing the Wood</a></li>
-<li><a href="#orgd19d87f">1.2.2. Soldering the Diodes, Microcontroller, and Switches</a></li>
-<li><a href="#org40b41f2">1.2.3. Putting It All Together</a></li>
+<li><a href="#sec-1-2-1">1.2.1. Finishing the Wood</a></li>
+<li><a href="#sec-1-2-2">1.2.2. Soldering the Diodes, Microcontroller, and Switches</a></li>
+<li><a href="#sec-1-2-3">1.2.3. Putting It All Together</a></li>
 </ul>
 </li>
-<li><a href="#orgcfcc3bd">1.3. Fin</a></li>
+<li><a href="#sec-1-3">1.3. Fin</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<a id="orgecee8f7"></a>
+# My Atreus Build<a id="sec-1" name="sec-1"></a>
 
-# My Atreus Build
-
-
-<a id="org9e09eee"></a>
-
-## Goals
+## Goals<a id="sec-1-1" name="sec-1-1"></a>
 
 -   [X] Have fun building something
 -   [X] Improve my soldering skills
@@ -41,15 +36,9 @@
         where some of my bad habits are actually impossible, I have been
         able to eliminate them.
 
+## The Build<a id="sec-1-2" name="sec-1-2"></a>
 
-<a id="org5d81e14"></a>
-
-## The Build
-
-
-<a id="org7e1e4cf"></a>
-
-### Finishing the Wood
+### Finishing the Wood<a id="sec-1-2-1" name="sec-1-2-1"></a>
 
 I like a satiny finish on wood, so I disregarded the instructions
 recommendation of lacquer and decided to wax the wood parts. This is,
@@ -66,14 +55,10 @@ case. Result: they don't stick well. Now I have them superglued on.
 
 If I were to do it again knowing what I do now I would not do the wax
 finish, but either:
-
 -   Shellac
 -   Spray lacquer
 
-
-<a id="orgd19d87f"></a>
-
-### Soldering the Diodes, Microcontroller, and Switches
+### Soldering the Diodes, Microcontroller, and Switches<a id="sec-1-2-2" name="sec-1-2-2"></a>
 
 Straightforward enough. A "third-hand" tool to hold the board in place
 is helpful. Not much to say about this, take your time
@@ -88,10 +73,7 @@ I quite like the ALPS switches. They were one of the things that drew
 me to the Atreus, since my previous keyboard was a Matias Mini Tactile
 Pro.
 
-
-<a id="org40b41f2"></a>
-
-### Putting It All Together
+### Putting It All Together<a id="sec-1-2-3" name="sec-1-2-3"></a>
 
 My two major diversions here were keycaps and edge-binding.
 
@@ -104,6 +86,16 @@ My two major diversions here were keycaps and edge-binding.
     him to cut me a length with width of a 1/2 inch. It went on nicely and
     holds well so far. I didn't do any special preparation to the edges,
     so I was a bit concerned about how well it would stick.
+    
+    *Update, September 25, 2017*: The binding has come off. It started
+    peeling off the top right corner a while ago, but always stuck back
+    on. However, this morning at work the flap just wouldn't stay put. I
+    peeled it off. It was actually stuck on quite well to most of the
+    keyboard, so this seems to have been a surface prep issue. My guess is
+    there's some wax on that edge.
+    
+    I may use this binding tape again on a future build with no wax
+    (currently in progress). Stay tuned for those results.
 
 2.  Keycaps
 
@@ -122,10 +114,7 @@ My two major diversions here were keycaps and edge-binding.
     and used the blank caps on the bottom row, for which it would be hard
     to find labeled analogs.
 
-
-<a id="orgcfcc3bd"></a>
-
-## Fin
+## Fin<a id="sec-1-3" name="sec-1-3"></a>
 
 ![img](./img/IMG_0410-1.JPG)
 
@@ -142,4 +131,3 @@ handy things about it. Overall I'm glad I built it. It was a very fun
 project and I can't recommend it highly enough.
 
 *This post written in Emacs on my Atreus, June 3, 2017*
-
